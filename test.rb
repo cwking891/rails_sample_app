@@ -1,0 +1,1 @@
+a = User.create(:name=>"bill", :email=>"bill@email.com")
